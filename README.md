@@ -95,7 +95,7 @@ We strive at providing a comfortable work environment and always using the right
 
 ### Communication
 
-* We have worked with hybird office and remote, and we have reached to the conclusion that our iterations are way productive to be work from anywhere. If someone house out of the town, it's more effective to remote more than wasting time in the way to drive.
+* We have worked with hybrid office and remote, and we have reached to the conclusion that our iterations are way productive to be work from anywhere. If someone out of the town, it's more effective to remote more than wasting time in the way to drive.
 * [Slack](https://slack.com/). All the repositories and deployment activities are notified to specific rooms allowing us 
 to track who is doing what. We believe in transparency so our clients and us are on the same page anytime.
 * [Whatsapp](https://whatsapp.com/). Used for internal and out-of-office communication.
