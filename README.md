@@ -48,6 +48,20 @@ We strive at providing a comfortable work environment and always using the right
 * Ergonomic chair
 * Lanyard with catalyst logo
 
+### Office locations
+* Jakarta HQ, Indonesia. 
+* Surabaya HQ, Indonesia.
+* Bandung workspace, Indonesia.
+* Malang workspace, Indonesia.
+
+### Core values
+* Trust
+* Responsible
+* Initiating
+* Creative
+* Outstanding
+* Diversity & Inclusion
+
 ### For development
 
 * CLI Script to [setup your laptop](https://github.com/nimblehq/laptop)
@@ -125,20 +139,6 @@ to track who is doing what. We believe in transparency so our clients and us are
 * Bank identification number (BIN) collection
 * Analytics gateway
 * File management system
-
-## Where the office locations
-* Jakarta HQ, Indonesia. 
-* Surabaya HQ, Indonesia.
-* Bandung workspace, Indonesia.
-* Malang workspace, Indonesia.
-
-## What is our core values
-* Trust
-* Responsible
-* Initiating
-* Creative
-* Outstanding
-* Diversity & Inclusion
 
 ## What we are up to
 
