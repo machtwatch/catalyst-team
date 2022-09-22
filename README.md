@@ -145,6 +145,7 @@ to track who is doing what. We believe in transparency so our clients and us are
 We are active on the following platforms and regularly post updates:
 
 * [Linkedin](https://www.linkedin.com/company/insidecatalyst/mycompany/)
+* [Instagram](https://www.instagram.com/insidecatalyst/)
 
 If this inspires you and you are interested to join our team, check out what [our recruitment process](https://nimblehq.co/compass/team/joining-nimble/) 
 is like and review if you match one of our [openings](http://career.ctlyst.id/)
