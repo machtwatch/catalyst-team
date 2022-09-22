@@ -126,13 +126,13 @@ to track who is doing what. We believe in transparency so our clients and us are
 * Analytics gateway
 * File management system
 
-## Where office locations
+## Where the office locations
 * Jakarta HQ, Indonesia. 
 * Surabaya HQ, Indonesia.
 * Bandung workspace, Indonesia.
 * Malang workspace, Indonesia.
 
-## What our core values
+## What is our core values
 * Trust
 * Responsible
 * Initiating
@@ -149,4 +149,4 @@ We are active on the following platforms and regularly post updates:
 If this inspires you and you are interested to join our team, check out what [our recruitment process](https://nimblehq.co/compass/team/joining-nimble/) 
 is like and review if you match one of our [openings](http://career.ctlyst.id/)
 
-If you just want to say "hi", drop us en email at developer@machtwatch.co.id 👋
+If you just want to say "hi", drop us en email at developer@ctlyst.id 👋
